@@ -1,5 +1,6 @@
 
-# VR Injection Simulation (Unity • Meta Quest 3 • Inverse3 Haptics)
+# Multimodal VR Simulation With Inverse3 Haptic Device 
+*Unity • Meta Quest 3 • Inverse3 Haptic Device*
 
 ## Description
 Training in medical procedures such as needle insertions often relies on limited physical resources and direct supervision, which can restrict practice opportunities and increase the risk of errors during real clinical settings. To address this challenge, the Multimodal VR Simulation with Inverse3 Haptic Device project seeks to create a virtual reality-based training platform that realistically simulates the process of inserting a needle into a patient’s arm. The project leverages immersive technologies and haptic feedback to enhance procedural learning within a safe, controlled, and repeatable environment. By integrating the Inverse3 haptic device with the Meta Quest 3 VR headset, this project aims to bridge the gap between theoretical instruction and hands-on clinical experience, offering a scalable and accessible training tool for medical students and healthcare professionals.
