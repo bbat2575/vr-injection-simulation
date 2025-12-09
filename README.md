@@ -39,7 +39,7 @@ Training in medical procedures such as needle insertions often relies on limited
 
 ### Unity Development & Technical Implementation
 - Animation of the human patient and medical assets in Unity, including:  
-  - Patient: blinking, breathing, looking around, and pain reactions.  
+  - Patient: blinking, breathing, looking around, hand pumping, and pain reactions.  
   - Assets: blood-filling syringe animation and tourniquet falling off.
 - Created vein and muscle hit zones in Unity to support accurate anatomical needle injection detection.
 - Integrated all major components into a unified Unity scene, including syringe–haptic interactions, haptic resistance materials, UI player boundaries, the 3D doctor’s office environment, and the patient model.
