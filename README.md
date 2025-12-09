@@ -10,8 +10,6 @@ Training in medical procedures such as needle insertions often relies on limited
 
 ## Media
 
-## Media
-
 ### Full Demonstration Video
 <a href="https://youtu.be/g_JtvzPxIa0">
   <img src="https://img.youtube.com/vi/g_JtvzPxIa0/0.jpg" width="450" style="border-radius: 6px;" />
@@ -66,6 +64,7 @@ Training in medical procedures such as needle insertions often relies on limited
   - Patient: blinking, breathing, looking around, hand pumping, and pain reactions.  
   - Assets: blood-filling syringe animation and tourniquet falling off.
 - Created vein and muscle hit zones in Unity to support accurate anatomical needle injection detection.
+- Created custom materials for key medical assets in Unity, including the syringe, arm rest, and tourniquet.
 - Integrated all major components into a unified Unity scene, including syringe–haptic interactions, haptic resistance materials, UI player boundaries, the 3D doctor’s office environment, and the patient model.
 
 ### Hardware Integration & Troubleshooting
@@ -101,5 +100,10 @@ Training in medical procedures such as needle insertions often relies on limited
 - Inverse3 haptic device - provides physical resistance and haptic feedback mapped to virtual needle depth.
 
 ## Screenshots
+
+| | |
+|---|---|
+| <img src="screenshots/tourniquet-and-arm-support.png" height="180"/> |  <img src="screenshots/vein-lines-and-hit-zones.png" height="180"/> |
+| <img src="screenshots/blood-filled-syringe.png" height="180"/> |  <img src="screenshots/syringe-needle-extended.png" height="180"/> |
 
 
