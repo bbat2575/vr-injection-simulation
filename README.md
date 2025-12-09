@@ -10,14 +10,27 @@ Training in medical procedures such as needle insertions often relies on limited
 
 ## Media
 
-### Patient Animation Demo
-[![Patient Animation](https://img.youtube.com/vi/aHp-iNu5yus/0.jpg)](https://youtu.be/aHp-iNu5yus)
+## Media
 
-### Syringe Animation & Tourniquet Drop
-[![Syringe Anim](https://img.youtube.com/vi/rBqyC9CRjeU/0.jpg)](https://youtu.be/rBqyC9CRjeU)
+### Full Demonstration Video
+<a href="https://youtu.be/g_JtvzPxIa0">
+  <img src="https://img.youtube.com/vi/g_JtvzPxIa0/0.jpg" width="450" style="border-radius: 6px;" />
+</a>
 
-### Final Scene Integration
-[![Scene Integration](https://img.youtube.com/vi/N3dXvtNH0Uw/0.jpg)](https://youtu.be/N3dXvtNH0Uw)
+---
+
+### Additional Clips
+<div style="display: flex; gap: 15px; margin-top: 10px;">
+  <a href="https://youtu.be/aHp-iNu5yus">
+    <img src="https://img.youtube.com/vi/aHp-iNu5yus/0.jpg" width="200" style="border-radius: 6px;" />
+  </a>
+  <a href="https://youtu.be/rBqyC9CRjeU">
+    <img src="https://img.youtube.com/vi/rBqyC9CRjeU/0.jpg" width="200" style="border-radius: 6px;" />
+  </a>
+  <a href="https://youtu.be/N3dXvtNH0Uw">
+    <img src="https://img.youtube.com/vi/N3dXvtNH0Uw/0.jpg" width="200" style="border-radius: 6px;" />
+  </a>
+</div>
 
 **Goals**
 - Develop a fully integrated desktop simulation system combining the Inverse3 haptic device and Meta Quest 3 VR headset.
@@ -87,9 +100,6 @@ Training in medical procedures such as needle insertions often relies on limited
 - Meta Quest 3 - VR headset used for immersive interaction and visualisation.
 - Inverse3 haptic device - provides physical resistance and haptic feedback mapped to virtual needle depth.
 
-## Media
-Screenshots and video demonstrations are available in the `media` folder.
+## Screenshots
 
-## Demonstration
-Watch the full demonstration video here: [Demo Video](https://youtu.be/g_JtvzPxIa0).
 
