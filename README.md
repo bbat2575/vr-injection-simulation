@@ -1,11 +1,12 @@
 
 # Multimodal VR Simulation With Inverse3 Haptic Device 
+
 *Unity • Meta Quest 3 • Inverse3 Haptic Device*
+
+A portfolio showcase of my Multimodal VR Simulation with Inverse3 Haptic Device, a medical injection training simulation built with Unity, Meta Quest 3, and the Inverse3 haptic device for the FMH Media Lab at the University of Sydney. Includes documentation, screenshots, and demo videos (no proprietary code).
 
 ## Description
 Training in medical procedures such as needle insertions often relies on limited physical resources and direct supervision, which can restrict practice opportunities and increase the risk of errors during real clinical settings. To address this challenge, the Multimodal VR Simulation with Inverse3 Haptic Device project seeks to create a virtual reality-based training platform that realistically simulates the process of inserting a needle into a patient’s arm. The project leverages immersive technologies and haptic feedback to enhance procedural learning within a safe, controlled, and repeatable environment. By integrating the Inverse3 haptic device with the Meta Quest 3 VR headset, this project aims to bridge the gap between theoretical instruction and hands-on clinical experience, offering a scalable and accessible training tool for medical students and healthcare professionals.
-
-To revolutionise medical education by providing an immersive, realistic, and interactive visual simulation for training essential procedural skills such as needle insertions, thereby improving clinical competence and patient safety.
 
 **Goals**
 - Develop a fully integrated desktop simulation system combining the Inverse3 haptic device and Meta Quest 3 VR headset.
@@ -17,28 +18,12 @@ To revolutionise medical education by providing an immersive, realistic, and int
 - Enhance clinical education and confidence by simulating realistic tactile feedback and environmental immersion.
 - Provide a foundation for future extensions to cover different medical specialisations and procedures.
 
-## My Role & Contributions
-- Rotating XP roles (weekly): Manager, Tracker, Doomsayer, Client Liaison, and Tester.
-- 3D modelling of the human patient in Blender, including mesh creation and armature rigging.
-- 3D modification and armature rigging of key assets in Blender, including the tourniquet, syringe, and arm rest.
-- Animation of the human patient and medical assets in Unity, including:  
-  - Patient: blinking, breathing, looking around, and pain reactions.
-  - Assets: blood-filling syringe animation and tourniquet falling off.
-- Created vein and muscle hit zones in Unity to support accurate anatomical needle injection detection.
-- Performed texture painting of vein lines on the patient model in Blender.
-- Created project setup documentation and repository usage guides for team onboarding and consistency.
-- Set up and configured the Meta Quest 3 for Unity development and testing.
-- Regularly performed hardware troubleshooting for the Meta Quest 3 headset and the Inverse3 Haptic Device.
-- Performed usability testing with FMH staff and iterated based on feedback.
-- Integrated all major components into a unified Unity scene, including syringe–haptic interactions, haptic resistance materials, UI player boundaries, the 3D doctor’s office environment, and the patient model.
-- Recorded simulation demonstrations using the Unity Recorder package.
-
 ## Stakeholders
 **University of Sydney Faculty of Medicine and Health Media Lab:** The client team providing anatomical and procedural expertise, ensuring educational and technical accuracy.
 
 **Medical students and healthcare professionals:** The primary users who gain hands-on experience and improved confidence through realistic simulations.
 
-**Educators and trainers:** End users responsible for embedding the simulation into teaching programs and assessing training outcomes.
+**Educators and trainers:** End users embedding the simulation into teaching programs and assessing training outcomes.
 
 **Development team:** Responsible for software development, 3D modelling, device integration, testing, and documentation.
 
@@ -61,7 +46,7 @@ To revolutionise medical education by providing an immersive, realistic, and int
 
 ### Hardware Integration & Troubleshooting
 - Set up and configured the Meta Quest 3 for Unity development and testing.
-- Regularly performed hardware troubleshooting for the Meta Quest 3 headset and the Inverse3 Haptic Device.
+- Regularly performed hardware troubleshooting for the Meta Quest 3 headset and the Inverse3 haptic device.
 
 ### Documentation, Testing & Demonstration
 - Created project setup documentation and repository usage guides for team onboarding and consistency.
@@ -75,7 +60,7 @@ To revolutionise medical education by providing an immersive, realistic, and int
 - Unity 2021 LTS
 - XR Interaction Toolkit
 - Meta Quest 3 SDK
-- Inverse3 Haptic Device SDK
+- Haply Inverse SDK
 
 ### Programming
 - C#
@@ -89,11 +74,11 @@ To revolutionise medical education by providing an immersive, realistic, and int
 
 ## Hardware
 - Meta Quest 3 - VR headset used for immersive interaction and visualisation.
-- Inverse3 Haptic Device - provides physical resistance and haptic feedback mapped to virtual needle depth.
+- Inverse3 haptic device - provides physical resistance and haptic feedback mapped to virtual needle depth.
 
 ## Media
-Screenshots, GIFs, and video demonstrations are available in the `media/` folder.
+Screenshots and video demonstrations are available in the `media` folder.
 
 ## Demonstration
-To view the extent of the work accomplished, please watch our [demo video here](https://drive.google.com/file/d/1BDKi3O42bvGfwRulEhtot1ILpHEaB6s6/view?usp=drive_link).
+Watch the full demonstration video here: [Demo Video](https://youtu.be/g_JtvzPxIa0).
 
