@@ -8,6 +8,17 @@ A portfolio showcase of my Multimodal VR Simulation with Inverse3 Haptic Device,
 ## Description
 Training in medical procedures such as needle insertions often relies on limited physical resources and direct supervision, which can restrict practice opportunities and increase the risk of errors during real clinical settings. To address this challenge, the Multimodal VR Simulation with Inverse3 Haptic Device project seeks to create a virtual reality-based training platform that realistically simulates the process of inserting a needle into a patient’s arm. The project leverages immersive technologies and haptic feedback to enhance procedural learning within a safe, controlled, and repeatable environment. By integrating the Inverse3 haptic device with the Meta Quest 3 VR headset, this project aims to bridge the gap between theoretical instruction and hands-on clinical experience, offering a scalable and accessible training tool for medical students and healthcare professionals.
 
+## Media
+
+### Patient Animation Demo
+[![Patient Animation](https://img.youtube.com/vi/aHp-iNu5yus/0.jpg)](https://youtu.be/aHp-iNu5yus)
+
+### Syringe Animation & Tourniquet Drop
+[![Syringe Anim](https://img.youtube.com/vi/rBqyC9CRjeU/0.jpg)](https://youtu.be/rBqyC9CRjeU)
+
+### Final Scene Integration
+[![Scene Integration](https://img.youtube.com/vi/N3dXvtNH0Uw/0.jpg)](https://youtu.be/N3dXvtNH0Uw)
+
 **Goals**
 - Develop a fully integrated desktop simulation system combining the Inverse3 haptic device and Meta Quest 3 VR headset.
 - Provide tactile and visual realism that accurately mimics human anatomy and the sensation of syringe insertion.
