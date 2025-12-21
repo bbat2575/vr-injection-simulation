@@ -12,7 +12,7 @@ Training in medical procedures such as needle insertions often relies on limited
 
 ### Full Demonstration Video
 <a href="https://youtu.be/g_JtvzPxIa0">
-  <img src="https://img.youtube.com/vi/g_JtvzPxIa0/0.jpg" width="450" style="border-radius: 6px;" />
+  <img src="https://img.youtube.com/vi/g_JtvzPxIa0/0.jpg?v=2" width="450" style="border-radius: 6px;" />
 </a>
 
 ---
