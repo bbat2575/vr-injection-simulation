@@ -30,12 +30,12 @@ Training in medical procedures such as needle insertions often relies on limited
   </a>
 </div>
 
-**Goals**
+**Technical Objectives**
 - Develop a fully integrated desktop simulation system combining the Inverse3 haptic device and Meta Quest 3 VR headset.
 - Provide tactile and visual realism that accurately mimics human anatomy and the sensation of syringe insertion.
 - Produce comprehensive technical and user documentation to support training and future system development.
 
-**Project Aims**
+**Educational Purpose**
 - Create a realistic, interactive training tool for medical students to practise needle insertion techniques safely.
 - Enhance clinical education and confidence by simulating realistic tactile feedback and environmental immersion.
 - Provide a foundation for future extensions to cover different medical specialisations and procedures.
@@ -60,6 +60,7 @@ Training in medical procedures such as needle insertions often relies on limited
 - Performed texture painting of vein lines on the patient model in Blender.
 
 ### Unity Development & Technical Implementation
+- Wrote C# scripts in Unity to drive hit zone detection, syringe-haptic interaction logic, and animation triggering (patient reactions, blooding-filling syrings, tourniquest fall).
 - Animation of the human patient and medical assets in Unity, including:  
   - Patient: blinking, breathing, looking around, hand pumping, and pain reactions.  
   - Assets: blood-filling syringe animation and tourniquet falling off.
