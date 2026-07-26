@@ -60,11 +60,10 @@ Training in medical procedures such as needle insertions often relies on limited
 - Performed texture painting of vein lines on the patient model in Blender.
 
 ### Unity Development & Technical Implementation
-- Wrote C# scripts in Unity to drive hit zone detection, syringe-haptic interaction logic, and animation triggering (patient reactions, blooding-filling syrings, tourniquest fall).
+- Implemented C# scripts in Unity to drive vein/muscle/skin hit zone detection, syringe-haptic interaction logic, and event-driven animation and audio triggering (pain reactions, pain sound cycling, syringe fill state, and tourniquet drop).
 - Animation of the human patient and medical assets in Unity, including:  
   - Patient: blinking, breathing, looking around, hand pumping, and pain reactions.  
   - Assets: blood-filling syringe animation and tourniquet falling off.
-- Created vein and muscle hit zones in Unity to support accurate anatomical needle injection detection.
 - Created custom materials for key medical assets in Unity, including the syringe, arm rest, and tourniquet.
 - Integrated all major components into a unified Unity scene, including syringe–haptic interactions, haptic resistance materials, UI player boundaries, the 3D doctor’s office environment, and the patient model.
 
