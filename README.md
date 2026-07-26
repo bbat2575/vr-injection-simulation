@@ -28,7 +28,7 @@ Training in medical procedures such as needle insertions often relies on limited
   <a href="https://youtu.be/N3dXvtNH0Uw">
     <img src="https://img.youtube.com/vi/N3dXvtNH0Uw/0.jpg" width="200" style="border-radius: 6px;" />
   </a>
-</div>
+</div> <br>
 
 **Technical Objectives**
 - Develop a fully integrated desktop simulation system combining the Inverse3 haptic device and Meta Quest 3 VR headset.
